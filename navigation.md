@@ -1,5 +1,5 @@
-# Your wiki name
+# Flexo
 
-[Home](home.md)
+[Home](index.md)
 [About](about.md)
 [Download](download.md)

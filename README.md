@@ -1,3 +1,4 @@
-# flexo333.github.io
-Website Repository
-## Testing MDwiki using github pages.
+MDwiki
+======
+
+See http://www.mdwiki.info/ for more documentation and details.

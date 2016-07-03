@@ -1,5 +1,5 @@
 # Will's Wiki
 
-[Home](home.md)
+[Home](index.md)
 [About](about.md)
 [Download](download.md)
